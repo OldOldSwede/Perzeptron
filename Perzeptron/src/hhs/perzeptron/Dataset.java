@@ -1,5 +1,5 @@
 package hhs.perzeptron;
-//Vorlage Dataset
+//Vorlage Dataset   sadf
 
 public abstract class Dataset {
 	protected int anzahlBeispiele;
