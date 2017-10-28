@@ -1,4 +1,5 @@
 package hhs.perzeptron;
+//Vorlage Dataset
 
 public abstract class Dataset {
 	protected int anzahlBeispiele;
